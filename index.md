@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am **Vijit Malik** and I am a recently completed my undergraduate studies from **Indian Institute of Technology, Kanpur**. I *majored* in *Mechanical Engineering* with *minors* in *Machine Learning & Applications*. 
+Hi! I am **SOME PERSON** and I am a recently completed my undergraduate studies from **Indian Institute of Technology, Kanpur**. I *majored* in *Mechanical Engineering* with *minors* in *Machine Learning & Applications*. 
 
 I conduct research in **Natural Language Processing** and **Artificial Intelligence**. 
 
