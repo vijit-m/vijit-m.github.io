@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme           : "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -95,13 +95,10 @@ analytics:
 author:
   name             : "Vijit Malik"
   avatar           : "/assets/avatar.jpg"
-  bio              : "I am an *independent* **AI researcher** interested in **Natural Language Processing** and its Applications"
-  location         : "Delhi, India"
+  bio              : "Applied Scientist - II at Amazon building Rufus. My research interests include in Large Language Models, Multi-agent Systems, Conversational AI and Safety in LLMs"
+  location         : "Bangalore, India"
   email            : vijitvm21@gmail.com
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://vijit-m.github.io"
     - label: "Google-Scholar"
       icon: "fa fa-graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&authuser=1&user=noW8sb8AAAAJ"
@@ -114,9 +111,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/vijit-m/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/vijit__malik"
 
 # Site Footer
 footer:
@@ -220,6 +214,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:

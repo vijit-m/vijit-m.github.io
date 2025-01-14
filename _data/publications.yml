@@ -1,0 +1,62 @@
+- title: "PEARL: Preference Extraction with Exemplar Augmentation and Retrieval with LLM Agents"
+  authors: "Vijit Malik, Akshay Jagatap, Vinayak Puranik, Anirban Majumder"
+  venue: "EMNLP2024"
+  year: 2024
+  link: "https://aclanthology.org/2024.emnlp-industry.112.pdf"
+  image: "/assets/images/publications/pearl.png"
+
+- title: "CorrSynth - A Correlated Sampling Method for Diverse Dataset Generation from LLMs"
+  authors: "Suhas Kowshik, Abhishek Divekar, Vijit Malik"
+  venue: "EMNLP2024"
+  year: 2024
+  link: "https://aclanthology.org/2024.emnlp-main.899.pdf"
+  image: "/assets/images/publications/corrsynth.png"
+
+- title: "Building Natural Language Interface for Product Search"
+  authors: "Vijit Malik, Vinayak Puranik, Anirban Majumder, Vivek Sembium"
+  venue: "CIKM2024"
+  year: 2024
+  link: "https://dl.acm.org/doi/pdf/10.1145/3627673.3680070"
+  image: "/assets/images/publications/nl2api.png"
+
+- title: "Does utterance entails intent?: Evaluating natural language inference based setup for few-shot intent detection"
+  authors: "Akash Kumar, Vijit Malik, Jithendra Vepa"
+  venue: "INTERSPEECH2022"
+  year: 2022
+  link: "https://www.isca-archive.org/interspeech_2022/kumar22b_interspeech.pdf"
+  image: "/assets/images/publications/nli_fsl.png"
+
+- title: "Semantic segmentation of legal documents via rhetorical roles"
+  authors: "Vijit Malik, R Sanjay, SK Guha, A Hazarika, S Nigam, A Bhattacharya, Ashutosh Modi"
+  venue: "NLLP@EMNLP2022"
+  year: 2022
+  link: "https://aclanthology.org/2022.nllp-1.13.pdf"
+  image: "/assets/images/publications/sem_seg.png"
+
+- title: "Socially aware bias measurements for Hindi language representations"
+  authors: "Vijit Malik, Sunipa Dev, Akihiro Nishi, Nanyun Peng, Kai-Wei Chang"
+  venue: "NAACL2022"
+  year: 2022
+  link: "https://aclanthology.org/2022.naacl-main.76.pdf"
+  image: "/assets/images/publications/ucla_naacl.png"
+
+- title: "Indian Legal Documents Corpus (ILDC) for Court Judgment Prediction and Explanation"
+  authors: "Vijit Malik, Rishabh Sanjay, Shubham Kumar Nigam, Kripa Ghosh, Shouvik Guha, Arnab Bhattacharya, Ashutosh Modi"
+  venue: "ACL-IJCNLP2021"
+  year: 2021
+  link: "https://arxiv.org/abs/2105.13562"
+  image: "/assets/images/publications/ildc.png"
+
+- title: "BreakingBERT@IITK at SemEval-2021 Task 9: Statement Verification and Evidence Finding with Tables"
+  authors: "Aditya Jindal, Ankur Gupta, Jaya Srivastava, Preeti Menghwani, Vijit Malik, Vishesh Kaushik, Ashutosh Modi"
+  venue: "SemEval2021"
+  year: 2021
+  link: "https://arxiv.org/abs/2104.03071"
+  image: "/assets/images/publications/breakingbert.png"
+
+- title: "Adv-OLM: Generating Textual Adversaries via OLM"
+  authors: "Vijit Malik, Ashwani Bhat, Ashutosh Modi"
+  venue: "EACL2021"
+  year: 2021
+  link: "https://arxiv.org/abs/2101.08523"
+  image: "/assets/images/publications/adv-olm.png"

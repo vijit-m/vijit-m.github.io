@@ -4,54 +4,44 @@ author_profile: true
 classes: wide
 ---
 
-Hi! I am **SOME PERSON** and I am a recently completed my undergraduate studies from **Indian Institute of Technology, Kanpur**. I *majored* in *Mechanical Engineering* with *minors* in *Machine Learning & Applications*. 
+I am **Vijit Malik**, an **Applied Scientist II** at **Amazon**, where I focus on building **Rufus** for Conversational Shopping. Prior to joining Amazon, I completed my Bachelor's in Mechanical Engineering with Minors in Machine Learning from **IIT Kanpur**. My research has been published at top NLP conferences, including **ACL, NAACL, EMNLP, and EACL**. Currently, my research interests are centered on the *Trustworthiness of Deep Learning systems, Large Language Models, and Conversational AI*, with a particular focus on ensuring their reliability, fairness, and ethical application in real-world settings.
 
-I conduct research in **Natural Language Processing** and **Artificial Intelligence**. 
+Prior to Amazon, my professional journey includes internship at **Observe AI**, before which I interned at **UCLA** (under [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/)), and **IIT Kanpur** (under [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/)), where I worked on diverse research challenges such as Legal AI, Fairness, Adversarial Attacks, and Structured Prediction. During my time at UCLA, I had the opportunity to work directly with the incredible [Dr. Sunipa Dev](https://sunipa.github.io/) (Senior Research Scientist, Google), who has been an invaluable mentor in my professional journey.
 
-At IIT Kanpur, I was fortunate enough to be advised by [Prof. Ashutosh Modi](https://ashutosh-modi.github.io/). 
+![Amazon](assets/amazon.jpg){: height="130px" width="130px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![UCLA](assets/uclafinal.png){: height="130px" width="130px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Observe](assets/observe.png){: height="130px" width="130px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![IITK](assets/iitkfinal.png){: height="130px" width="130px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Amazon** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **UCLA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              **Observe AI** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;            **IITK**
 
-Currently, I am a research intern at **UCLA's NLP Lab** advised by [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/) and [Prof. Nanyun Peng](https://vnpeng.net/). I have been working closely with [Dr. Sunipa Dev](https://sunipa.github.io/), who is a postdoc at UCLA. 
-
-I am an incoming Machine Learning Research Intern at [Observe.ai](https://www.observe.ai/) starting **July 2021**.
-
-![IITK](assets/iitkfinal.png){: height="170px" width="170px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![UCLA](assets/uclafinal.png){: height="170px" width="170px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Observe](assets/observe.png){: height="170px" width="170px" align="centre"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***IITK*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***UCLA*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              ***Observe.ai***
-
-Research
-=========
-
-My main research interests involve: *Applications of NLP in Legal domain*, *Bias detection and mitigation in low resource languages*, *Adversarial Attacks upon DNNs*, *Long Document Representation Learning*, *Controlled text generation in Language Models*. Although, I haven't worked intensively in Computer Vision, I am interested in *multimodal aspects of Deep Learning* as well. 
-
-I am an aspiring PhD student and I have published papers at venues like **ACL** and **EACL**. Check out Publications section for more details!
 
 News
 ======
-* **29th May 2021**: I will be an *ML research intern* for six months at **Observe.ai** from 6th July!
-* **6th May 2021**: Our paper on **LegalAI for India** got *accepted* at **ACL-IJCNLP2021** main conference!
-* **8th Apr 2021**: Our paper got *accepted* at **SemEval-2021** co-located with **ACL-IJCNLP2021**!
-* **25th Feb 2021**:  Our team BreakingBERT@IITK placed **5th** (Subtask A) and **1st** (Subtask B) in **SemEval2021** Task 5!
-* **22nd Feb 2021**: I will be a Research Intern at  *@UCLA* this summer under **Prof. Kai-Wei Chang** and **Prof. Nanyun Peng**!
-* **15th Jan 2021**: My first paper *accepted* at **EACL2021**. Check out the publications section!
+* **5th Nov 2024 :airplane:**: Presenting our works PEARL and CorrSynth at EMNLP'24, see you in Miami, FL!
+* **10th Oct 2024 :boom:**: Two papers accepted at EMNLP'24, congratulations to my co-authors on the amazing work!
+* **21st Sep 2024 :airplane:**: Presenting our work on Natural Language Interface for Product Search at CIKM'24 in Boise, ID!
+* **25th Aug 2024 :airplane:**: Presenting our work 'PEARL' at AMLC'24 in Seattle, WA!
+* **17th Aug 2024 :boom:**: One paper "Building Natural Language Interface for Product Search" accepted at CIKM'24 in Boise, ID!
 
 Publications
 =============
 
-**2021**
+{% for pub in site.data.publications %}
+<div class="publication" style="display: flex; align-items: flex-start; margin-bottom: 10px;">
+  <!-- Image Section -->
+  <div style="flex: 0 0 250px; margin-right: 30px;">
+    <img src="{{ pub.image }}" alt="Image for {{ pub.title }}" style="width: 250px; height: auto; border-radius: 5px;">
+  </div>
 
-* **Indian Legal Documents Corpus (ILDC) for Court Judgment Prediction and Explanation** [[arxiv]](https://arxiv.org/abs/2105.13562)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Vijit Malik**, Rishabh Sanjay, Shubham Kumar Nigam, Kripa Ghosh, Shouvik Guha, Arnab Bhattacharya, Ashutosh Modi* \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted @[ACL-IJCNLP2021](https://2021.aclweb.org/)
-
-* **BreakingBERT@IITK at SemEval-2021 Task 9 : Statement Verification and Evidence Finding with Tables** [[arxiv]](https://arxiv.org/abs/2104.03071)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Aditya Jindal\*, Ankur Gupta\*, Jaya Srivastava\*, Preeti Menghwani\*, **Vijit Malik\***, Vishesh Kaushik\*, Ashutosh Modi*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (\* = Equal Contribution)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted @[SemEval2021](https://semeval.github.io/SemEval2021/)
-
-* **Adv-OLM: Generating Textual Adversaries via OLM**  [[arxiv]](https://arxiv.org/abs/2101.08523)\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ***Vijit Malik**, Ashwani Bhat, Ashutosh Modi*\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Accepted @[EACL2021](https://2021.eacl.org/)
+  <!-- Details Section -->
+  <div style="flex: 1;">
+    <p><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a></p>
+    <p><strong>Authors:</strong> {{ pub.authors }}</p>
+    <p><strong>Published in:</strong> {{ pub.venue }} ({{ pub.year }})</p>
+  </div>
+</div>
+<hr>
+{% endfor %}
 
 
 
